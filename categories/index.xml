@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Eat Code Think</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Eat Code Think</description>
+    <title>Categories on Agency</title>
+    <link>https://shrutipa.tel/categories/</link>
+    <description>Recent content in Categories on Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shrutipa.tel/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Existential</title>
-      <link>/categories/existential/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/existential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>/categories/life/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/life/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

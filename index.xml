@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eat Code Think</title>
-    <link>/</link>
-    <description>Recent content on Eat Code Think</description>
+    <title>Agency</title>
+    <link>https://shrutipa.tel/</link>
+    <description>Recent content on Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shrutipa.tel/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Existential Crisis</title>
-      <link>/blog/test/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/test/</guid>
-      <description>Periodically throughout my life, I asked myself the same questions as Snoopy.
-It was during one of those periods, a high school teacher of mine told me the answer was in The Hitch Hiker&amp;rsquo;s Guide to the Galaxy had an answer to the riddle: What is the answer to life, the universe, and everything? So, naturally, I got the book, and skipped to the section that had the answer&amp;hellip;</description>
-    </item>
     
   </channel>
 </rss>
